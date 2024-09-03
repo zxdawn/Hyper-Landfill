@@ -1,10 +1,10 @@
 # Hyper-Landfill
 
-This repository provides the scripts and some of the data used in the 'Revealing Global Methane Super Emitter Landfills: Insights from Hyperspectral Satellite Observations' paper.
+This repository provides the scripts and some of the data used in the "Global identification of solid waste methane super emitters using hyperspectral satellites" paper.
 
-Input data are all saved in the zenodo Dataset called Dataset for "Revealing Global Methane Super Emitter Landfills: Insights from Hyperspectral Satellite Observations".
+Input data are all saved in the zenodo Dataset called "Dataset for Global identification of solid waste methane super emitters using hyperspectral satellites".
 
-Users can download the compressed file, extract it in the root directory, and rename to data. Then, all the Jupyter Notebooks should work well.
+Users can download the compressed file, extract it in the root directory, and rename to "data". Then, all the Jupyter Notebooks should work well.
 
 - emission_summary.ipynb
     
@@ -12,13 +12,13 @@ Users can download the compressed file, extract it in the root directory, and re
 
 - emission_map.ipynb
 
-    Fig. 1
+    Fig. 1 and S1
 
 - hyper_sankey.ipynb
 
-    Fig. 2 and S4
+    Fig. 2 and S3
 
-- emission_comp.ipynb
+- emission_comp_th.ipynb
 
     Fig. 3 and S8, ; Table S3, S4, S5, S6, and S7
 
@@ -26,19 +26,15 @@ Users can download the compressed file, extract it in the root directory, and re
 
     Fig. 4, S9, and S10
 
-- shape_error.ipynb
+- errors.ipynb
 
-    Fig. S1
-
-- emission_eomp_carbonmapper.ipynb
-
-    Fig. S2
+    Fig. S16
 
 - emission_stats.ipynb
 
-    Fig. S3 and S5
+    Fig. S2 and S5
 
-- climate_stats.ipynb
+- climatetrace_stats.ipynb
 
     Fig. S6
 
