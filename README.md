@@ -8,39 +8,39 @@ Users can download the compressed file, extract it in the root directory, and re
 
 - emission_summary.ipynb
     
-    Table S1 and S2; Generating summary data
+    Table S2 and S3; Generating summary data
 
 - emission_map.ipynb
 
-    Fig. 1 and S1
+    Fig. 1 and S7
 
 - hyper_sankey.ipynb
 
-    Fig. 2 and S3
+    Fig. 2 and S9
 
 - emission_comp_th.ipynb
 
-    Fig. 3 and S8, ; Table S3, S4, S5, S6, and S7
+    Fig. 3 and S13; Table S4, S5, S6, S7, and S8
 
 - emission_timeseries.ipynb
 
-    Fig. 4, S9, and S10
+    Fig. 4, S14, and S15
 
 - errors.ipynb
 
-    Fig. S16
+    Fig. S1
 
 - emission_stats.ipynb
 
-    Fig. S2 and S5
+    Fig. S8 and S10
 
 - climatetrace_stats.ipynb
 
-    Fig. S6
+    Fig. S11
 
 - s2_landfill.ipynb
 
-    Fig. S7, S11, and S12
+    Fig. S12, S17, and S18
 
 - animation.ipynb
 
