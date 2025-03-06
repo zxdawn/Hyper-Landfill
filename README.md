@@ -9,7 +9,7 @@ This repository contains scripts and a selection of data used in the ES&T paper 
 
 All input data are available in the Zenodo dataset titled ["Dataset for Global Identification of Solid Waste Methane Super Emitters Using Hyperspectral Satellites"](https://doi.org/10.5281/zenodo.13643544).
 
-To use the data, download the compressed file, extract it into the root directory, and rename the folder to "data.". This will ensure that all Jupyter Notebooks run correctly.
+To use the data, download the compressed file, extract it into the root directory, and rename the folder to "data". This will ensure that all Jupyter Notebooks run correctly.
 
 ## Notebook structure
 
