@@ -1,10 +1,14 @@
 # Hyper-Landfill
 
-This repository provides the scripts and some of the data used in the "Global identification of solid waste methane super emitters using hyperspectral satellites" paper.
+## Usage
 
-Input data are all saved in the zenodo Dataset called "Dataset for Global identification of solid waste methane super emitters using hyperspectral satellites".
+This repository contains scripts and a selection of data used in the ES&T paper "Global Identification of Solid Waste Methane Super Emitters Using Hyperspectral Satellites."
 
-Users can download the compressed file, extract it in the root directory, and rename to "data". Then, all the Jupyter Notebooks should work well.
+All input data are available in the Zenodo dataset titled ["Dataset for Global Identification of Solid Waste Methane Super Emitters Using Hyperspectral Satellites"](https://doi.org/10.5281/zenodo.13643544).
+
+To use the data, download the compressed file, extract it into the root directory, and rename the folder to "data.". This will ensure that all Jupyter Notebooks run correctly.
+
+## Notebook structure
 
 - emission_summary.ipynb
     
@@ -46,3 +50,6 @@ Users can download the compressed file, extract it in the root directory, and re
 
     Movie S1 and S2
 
+## Reference
+
+Zhang, Xin, et al. "Global identification of solid waste methane super emitters using hyperspectral satellites." (2025, under review).
