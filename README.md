@@ -1,5 +1,8 @@
 # Hyper-Landfill
 
+![](figures/emission_sankey.png)
+
+
 ## Usage
 
 This repository contains scripts and a selection of data used in the ES&T paper "Global Identification of Solid Waste Methane Super Emitters Using Hyperspectral Satellites."
