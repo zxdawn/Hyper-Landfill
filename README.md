@@ -1,5 +1,7 @@
 # Hyper-Landfill
 
+![](figures/TOC.png)
+
 ![](figures/emission_sankey.png)
 
 
